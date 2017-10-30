@@ -1,0 +1,25 @@
+1. cd images/clipart/food
+
+2. cd ../../
+   cd e-texts/Poe_EgarAllan
+
+3. ls
+
+4. cd ../../
+   cd images
+   pwd
+
+5. mkdir photographs
+
+6. cd photographs
+   touch sunrise
+   mv sunrise sunrise.jpg
+
+7. mv sunrise.jpg ../images
+
+8. cd ../../
+   cd Monkeys
+   subl .
+
+9. cd like
+   rm bananas.html
